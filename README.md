@@ -1,0 +1,1 @@
+# Simple example to demonstrate tesseract-ocr
